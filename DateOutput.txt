@@ -1,0 +1,203 @@
+Lower index for array:  0
+Upper index for array:  50
+Number of stacks for array:  3
+Lower index for stacks:  4
+Upper index for stacks:  13
+
+Begin Opcodes, type 'EX' to quit: 
+Opcode: 
+I2 JANUARY  15,  1956
+
+Opcode: 
+I2 FEBRUARY  14,  1957
+
+Opcode: 
+I3 SEPTEMBER  16,  1946
+
+Opcode: 
+I2 SEPTEMBER  17,  1842
+
+Opcode: 
+I2 APRIL  1,  2015
+
+Overflow occured, reallocating...
+
+--------Before--------
+Base[ 1]:  4  Top[ 1]:  4  OldTop[ 1]:  4  
+Base[ 2]:  7  Top[ 2]:  11  OldTop[ 2]:  7  
+Base[ 3]:  10  Top[ 3]:  11  OldTop[ 3]:  10  
+Base[ 4]:  13  
+
+ 5: 
+ 6: 
+ 7: 
+ 8: JANUARY  15,  1956
+ 9: FEBRUARY  14,  1957
+ 10: SEPTEMBER  17,  1842
+ 11: SEPTEMBER  16,  1946
+ 12: 
+ 13: 
+
+--------After--------
+Base[ 1]:  4  Top[ 1]:  4  OldTop[ 1]:  4  
+Base[ 2]:  4  Top[ 2]:  8  OldTop[ 2]:  8  
+Base[ 3]:  11  Top[ 3]:  12  OldTop[ 3]:  12  
+Base[ 4]:  13  
+
+ 5: JANUARY  15,  1956
+ 6: FEBRUARY  14,  1957
+ 7: SEPTEMBER  17,  1842
+ 8: APRIL  1,  2015
+ 9: 
+ 10: 
+ 11: 
+ 12: SEPTEMBER  16,  1946
+ 13: 
+
+Opcode: 
+I1 DECEMBER  24,  1996
+
+Overflow occured, reallocating...
+
+--------Before--------
+Base[ 1]:  4  Top[ 1]:  5  OldTop[ 1]:  4  
+Base[ 2]:  4  Top[ 2]:  8  OldTop[ 2]:  8  
+Base[ 3]:  11  Top[ 3]:  12  OldTop[ 3]:  12  
+Base[ 4]:  13  
+
+ 5: JANUARY  15,  1956
+ 6: FEBRUARY  14,  1957
+ 7: SEPTEMBER  17,  1842
+ 8: APRIL  1,  2015
+ 9: 
+ 10: 
+ 11: 
+ 12: SEPTEMBER  16,  1946
+ 13: 
+
+--------After--------
+Base[ 1]:  4  Top[ 1]:  5  OldTop[ 1]:  5  
+Base[ 2]:  7  Top[ 2]:  11  OldTop[ 2]:  11  
+Base[ 3]:  11  Top[ 3]:  12  OldTop[ 3]:  12  
+Base[ 4]:  13  
+
+ 5: DECEMBER  24,  1996
+ 6: 
+ 7: 
+ 8: JANUARY  15,  1956
+ 9: FEBRUARY  14,  1957
+ 10: SEPTEMBER  17,  1842
+ 11: APRIL  1,  2015
+ 12: SEPTEMBER  16,  1946
+ 13: 
+
+Opcode: 
+D1 
+
+Opcode: 
+I3 MARCH  16,  1992
+
+Opcode: 
+D1 
+
+Underflow occured, empty stack
+
+Opcode: 
+I2 JANUARY  15,  1956
+
+Overflow occured, reallocating...
+
+--------Before--------
+Base[ 1]:  4  Top[ 1]:  4  OldTop[ 1]:  5  
+Base[ 2]:  7  Top[ 2]:  12  OldTop[ 2]:  11  
+Base[ 3]:  11  Top[ 3]:  13  OldTop[ 3]:  12  
+Base[ 4]:  13  
+
+ 5: 
+ 6: 
+ 7: 
+ 8: JANUARY  15,  1956
+ 9: FEBRUARY  14,  1957
+ 10: SEPTEMBER  17,  1842
+ 11: APRIL  1,  2015
+ 12: SEPTEMBER  16,  1946
+ 13: MARCH  16,  1992
+
+--------After--------
+Base[ 1]:  4  Top[ 1]:  4  OldTop[ 1]:  4  
+Base[ 2]:  4  Top[ 2]:  9  OldTop[ 2]:  9  
+Base[ 3]:  10  Top[ 3]:  12  OldTop[ 3]:  12  
+Base[ 4]:  13  
+
+ 5: JANUARY  15,  1956
+ 6: FEBRUARY  14,  1957
+ 7: SEPTEMBER  17,  1842
+ 8: APRIL  1,  2015
+ 9: JANUARY  15,  1956
+ 10: 
+ 11: SEPTEMBER  16,  1946
+ 12: MARCH  16,  1992
+ 13: 
+
+Opcode: 
+I3 APRIL  4,  1492
+
+Opcode: 
+I3 NOVEMBER  7,  1776
+
+Overflow occured, reallocating...
+
+--------Before--------
+Base[ 1]:  4  Top[ 1]:  4  OldTop[ 1]:  4  
+Base[ 2]:  4  Top[ 2]:  9  OldTop[ 2]:  9  
+Base[ 3]:  10  Top[ 3]:  14  OldTop[ 3]:  12  
+Base[ 4]:  13  
+
+ 5: JANUARY  15,  1956
+ 6: FEBRUARY  14,  1957
+ 7: SEPTEMBER  17,  1842
+ 8: APRIL  1,  2015
+ 9: JANUARY  15,  1956
+ 10: 
+ 11: SEPTEMBER  16,  1946
+ 12: MARCH  16,  1992
+ 13: APRIL  4,  1492
+
+--------After--------
+Base[ 1]:  4  Top[ 1]:  4  OldTop[ 1]:  4  
+Base[ 2]:  4  Top[ 2]:  9  OldTop[ 2]:  9  
+Base[ 3]:  9  Top[ 3]:  13  OldTop[ 3]:  13  
+Base[ 4]:  13  
+
+ 5: JANUARY  15,  1956
+ 6: FEBRUARY  14,  1957
+ 7: SEPTEMBER  17,  1842
+ 8: APRIL  1,  2015
+ 9: JANUARY  15,  1956
+ 10: SEPTEMBER  16,  1946
+ 11: MARCH  16,  1992
+ 12: APRIL  4,  1492
+ 13: NOVEMBER  7,  1776
+
+Opcode: 
+I3 JUNE  12,  1994
+
+Overflow occured, reallocating...
+
+--------Before--------
+Base[ 1]:  4  Top[ 1]:  4  OldTop[ 1]:  4  
+Base[ 2]:  4  Top[ 2]:  9  OldTop[ 2]:  9  
+Base[ 3]:  9  Top[ 3]:  14  OldTop[ 3]:  13  
+Base[ 4]:  13  
+
+ 5: JANUARY  15,  1956
+ 6: FEBRUARY  14,  1957
+ 7: SEPTEMBER  17,  1842
+ 8: APRIL  1,  2015
+ 9: JANUARY  15,  1956
+ 10: SEPTEMBER  16,  1946
+ 11: MARCH  16,  1992
+ 12: APRIL  4,  1492
+ 13: NOVEMBER  7,  1776
+
+Insufficent memory to repack, stopping...
